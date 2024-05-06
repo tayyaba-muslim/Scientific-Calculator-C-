@@ -1,0 +1,14 @@
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\bin\Debug\net7.0\Scientific-Calculator-using-C-.exe
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\bin\Debug\net7.0\Scientific-Calculator-using-C-.deps.json
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\bin\Debug\net7.0\Scientific-Calculator-using-C-.runtimeconfig.json
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\bin\Debug\net7.0\Scientific-Calculator-using-C-.dll
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\bin\Debug\net7.0\Scientific-Calculator-using-C-.pdb
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\obj\Debug\net7.0\Scientific-Calculator-using-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\obj\Debug\net7.0\Scientific-Calculator-using-C-.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\obj\Debug\net7.0\Scientific-Calculator-using-C-.AssemblyInfo.cs
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\obj\Debug\net7.0\Scientific-Calculator-using-C-.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\obj\Debug\net7.0\Scientific-Calculator-using-C-.dll
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\obj\Debug\net7.0\refint\Scientific-Calculator-using-C-.dll
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\obj\Debug\net7.0\Scientific-Calculator-using-C-.pdb
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\obj\Debug\net7.0\Scientific-Calculator-using-C-.genruntimeconfig.cache
+C:\Users\asp\source\repos\Scientific-Calculator-using-C-\Scientific-Calculator-using-C-\obj\Debug\net7.0\ref\Scientific-Calculator-using-C-.dll
